@@ -1,0 +1,17 @@
+.JudulInfo {
+  background-color: #3498db;
+  color: white;
+  padding: 20px;
+}
+.Lol {
+  background-color: #49a4bb;
+  color: white;
+  padding: 20px;
+}
+.skill p {
+  margin-top: 0;
+  padding: 20px;
+  border-radius: 5px;
+  background-color: #49a4bb;
+  display: flex;
+}

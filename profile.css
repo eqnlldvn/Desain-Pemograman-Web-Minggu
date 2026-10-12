@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  height: 100vh;
+}
+.PhotoProfile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40%;
+}
+.tentang {
+  text-align: center;
+}
+.skill {
+  display: flex;
+  gap: 15px;
+}
+.foot {
+  text-align: center;
+}
